@@ -15,7 +15,7 @@ The project focuses on two approaches:
 ```bash
 # Clone repository
 git clone https://github.com/yourusername/cartpole-stabilisation.git
-cd cartpole-stabilisation
+cd Stabilisation-of-Cart-Pole-System-using-Reinforcement-Learning
 
 # Install dependencies
 pip install -r requirements.txt
