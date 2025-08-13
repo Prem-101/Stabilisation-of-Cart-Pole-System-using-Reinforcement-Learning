@@ -1,6 +1,6 @@
 # CartPole Stabilisation using Deep Reinforcement Learning
 
-This project implements a Deep Q-Learning (DQN) approach to stabilize the CartPole system, comparing standard and physics-based reward functions.
+This project implements a Deep Q-Learning (DQN) approach to stabiliwe the CartPole system, comparing standard and physics-based reward functions.
 The research work was done as a part of Summer Training under the guidance of Dr. Subrat Kumar Swain, Assisstant Professor, Department of Electrical and Electronics Engineering, Birla Institute of Technology, Mesra, Ranchi, Jharkhand.
 The code has been inspired by the PyTorch tutorial on Reinforcement Learning (DQN) authored by Sir Adam  Paszke.
 
